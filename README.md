@@ -1,4 +1,4 @@
-### Speed running C
+# Speed running C
 
 Don't actually use these notes as a study guide! Im only a student, i'm self taught and these notes probably have many mistakes. 
 
